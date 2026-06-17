@@ -1,0 +1,17 @@
+{
+  "id": "multiplication-3",
+  "title": "掛け算 九九 - 3の段",
+  "order": 2,
+  "description": "3の段の九九を練習しよう",
+  "cards": [
+    { "question": "3 × 1", "answer": "3" },
+    { "question": "3 × 2", "answer": "6" },
+    { "question": "3 × 3", "answer": "9" },
+    { "question": "3 × 4", "answer": "12" },
+    { "question": "3 × 5", "answer": "15" },
+    { "question": "3 × 6", "answer": "18" },
+    { "question": "3 × 7", "answer": "21" },
+    { "question": "3 × 8", "answer": "24" },
+    { "question": "3 × 9", "answer": "27" }
+  ]
+}

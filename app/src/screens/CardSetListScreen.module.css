@@ -1,0 +1,43 @@
+.appTitle {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 28px;
+  text-align: center;
+  color: var(--color-primary);
+}
+
+.cardSetList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.cardSetItem {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px;
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  text-align: left;
+  transition: background 0.15s;
+}
+
+.cardSetItem:active {
+  background: #f0f0ec;
+}
+
+.cardSetTitle {
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.cardSetCount {
+  font-size: 0.85rem;
+  color: var(--color-text-sub);
+  white-space: nowrap;
+  margin-left: 12px;
+}
