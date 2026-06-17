@@ -1,0 +1,13 @@
+{
+  "name": "flashcard",
+  "dockerComposeFile": ["compose.yaml", "compose.env.yaml"],
+  "service": "workspace",
+  "workspaceFolder": "/workspace",
+  "forwardPorts": [5173],
+  "postCreateCommand": "bun install --cwd=app",
+  "customizations": {
+    "vscode": {
+      "extensions": ["oxc.oxc-vscode"]
+    }
+  }
+}
