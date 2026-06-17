@@ -2,6 +2,7 @@
   "id": "english-days",
   "title": "曜日の英語",
   "order": 12,
+  "tags": ["英語"],
   "description": "月曜日〜日曜日を英語で言えるようになろう",
   "cards": [
     { "question": "日曜日", "answer": "Sunday" },

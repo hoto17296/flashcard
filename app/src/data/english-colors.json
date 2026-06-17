@@ -2,6 +2,7 @@
   "id": "english-colors",
   "title": "色の英語",
   "order": 15,
+  "tags": ["英語"],
   "description": "色の名前を英語で言えるようになろう",
   "cards": [
     { "question": "赤", "answer": "Red" },

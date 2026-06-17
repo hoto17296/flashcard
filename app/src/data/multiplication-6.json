@@ -2,6 +2,7 @@
   "id": "multiplication-6",
   "title": "九九 - 6の段",
   "order": 8,
+  "tags": ["九九"],
   "cards": [
     { "question": "6 × 1", "answer": "6" },
     { "question": "6 × 2", "answer": "12" },

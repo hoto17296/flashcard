@@ -7,6 +7,7 @@ export interface CardSet {
   id: string;
   title: string;
   order: number;
+  tags?: string[];
   description?: string;
   cards: Card[];
 }

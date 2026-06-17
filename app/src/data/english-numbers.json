@@ -2,6 +2,7 @@
   "id": "english-numbers",
   "title": "数字の英語",
   "order": 14,
+  "tags": ["英語"],
   "description": "1〜20を英語で言えるようになろう",
   "cards": [
     { "question": "1", "answer": "One" },

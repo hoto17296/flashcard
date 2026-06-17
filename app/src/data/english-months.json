@@ -2,6 +2,7 @@
   "id": "english-months",
   "title": "月の英語",
   "order": 13,
+  "tags": ["英語"],
   "description": "1月〜12月を英語で言えるようになろう",
   "cards": [
     { "question": "1月", "answer": "January" },
