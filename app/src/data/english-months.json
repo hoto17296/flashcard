@@ -1,0 +1,20 @@
+{
+  "id": "english-months",
+  "title": "月の英語",
+  "order": 13,
+  "description": "1月〜12月を英語で言えるようになろう",
+  "cards": [
+    { "question": "1月", "answer": "January" },
+    { "question": "2月", "answer": "February" },
+    { "question": "3月", "answer": "March" },
+    { "question": "4月", "answer": "April" },
+    { "question": "5月", "answer": "May" },
+    { "question": "6月", "answer": "June" },
+    { "question": "7月", "answer": "July" },
+    { "question": "8月", "answer": "August" },
+    { "question": "9月", "answer": "September" },
+    { "question": "10月", "answer": "October" },
+    { "question": "11月", "answer": "November" },
+    { "question": "12月", "answer": "December" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "multiplication-6",
+  "title": "九九 - 6の段",
+  "order": 8,
+  "cards": [
+    { "question": "6 × 1", "answer": "6" },
+    { "question": "6 × 2", "answer": "12" },
+    { "question": "6 × 3", "answer": "18" },
+    { "question": "6 × 4", "answer": "24" },
+    { "question": "6 × 5", "answer": "30" },
+    { "question": "6 × 6", "answer": "36" },
+    { "question": "6 × 7", "answer": "42" },
+    { "question": "6 × 8", "answer": "48" },
+    { "question": "6 × 9", "answer": "54" }
+  ]
+}

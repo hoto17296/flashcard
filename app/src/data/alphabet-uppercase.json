@@ -1,8 +1,7 @@
 {
-  "id": "alphabet",
-  "title": "アルファベットの読み",
+  "id": "alphabet-uppercase",
+  "title": "アルファベットの読み (大文字)",
   "order": 1,
-  "description": "A〜Zのアルファベットの読み方を覚えよう",
   "cards": [
     { "question": "A", "answer": "エー" },
     { "question": "B", "answer": "ビー" },

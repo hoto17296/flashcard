@@ -1,0 +1,19 @@
+{
+  "id": "english-colors",
+  "title": "色の英語",
+  "order": 15,
+  "description": "色の名前を英語で言えるようになろう",
+  "cards": [
+    { "question": "赤", "answer": "Red" },
+    { "question": "青", "answer": "Blue" },
+    { "question": "黄色", "answer": "Yellow" },
+    { "question": "緑", "answer": "Green" },
+    { "question": "オレンジ", "answer": "Orange" },
+    { "question": "紫", "answer": "Purple" },
+    { "question": "ピンク", "answer": "Pink" },
+    { "question": "白", "answer": "White" },
+    { "question": "黒", "answer": "Black" },
+    { "question": "茶色", "answer": "Brown" },
+    { "question": "灰色", "answer": "Gray" }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-numbers",
+  "title": "数字の英語",
+  "order": 14,
+  "description": "1〜20を英語で言えるようになろう",
+  "cards": [
+    { "question": "1", "answer": "One" },
+    { "question": "2", "answer": "Two" },
+    { "question": "3", "answer": "Three" },
+    { "question": "4", "answer": "Four" },
+    { "question": "5", "answer": "Five" },
+    { "question": "6", "answer": "Six" },
+    { "question": "7", "answer": "Seven" },
+    { "question": "8", "answer": "Eight" },
+    { "question": "9", "answer": "Nine" },
+    { "question": "10", "answer": "Ten" },
+    { "question": "11", "answer": "Eleven" },
+    { "question": "12", "answer": "Twelve" },
+    { "question": "13", "answer": "Thirteen" },
+    { "question": "14", "answer": "Fourteen" },
+    { "question": "15", "answer": "Fifteen" },
+    { "question": "16", "answer": "Sixteen" },
+    { "question": "17", "answer": "Seventeen" },
+    { "question": "18", "answer": "Eighteen" },
+    { "question": "19", "answer": "Nineteen" },
+    { "question": "20", "answer": "Twenty" }
+  ]
+}

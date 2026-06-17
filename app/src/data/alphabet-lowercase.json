@@ -1,0 +1,33 @@
+{
+  "id": "alphabet-lowercase",
+  "title": "アルファベットの読み (小文字)",
+  "order": 2,
+  "cards": [
+    { "question": "a", "answer": "エー" },
+    { "question": "b", "answer": "ビー" },
+    { "question": "c", "answer": "シー" },
+    { "question": "d", "answer": "ディー" },
+    { "question": "e", "answer": "イー" },
+    { "question": "f", "answer": "エフ" },
+    { "question": "g", "answer": "ジー" },
+    { "question": "h", "answer": "エイチ" },
+    { "question": "i", "answer": "アイ" },
+    { "question": "j", "answer": "ジェー" },
+    { "question": "k", "answer": "ケー" },
+    { "question": "l", "answer": "エル" },
+    { "question": "m", "answer": "エム" },
+    { "question": "n", "answer": "エヌ" },
+    { "question": "o", "answer": "オー" },
+    { "question": "p", "answer": "ピー" },
+    { "question": "q", "answer": "キュー" },
+    { "question": "r", "answer": "アール" },
+    { "question": "s", "answer": "エス" },
+    { "question": "t", "answer": "ティー" },
+    { "question": "u", "answer": "ユー" },
+    { "question": "v", "answer": "ブイ" },
+    { "question": "w", "answer": "ダブリュー" },
+    { "question": "x", "answer": "エックス" },
+    { "question": "y", "answer": "ワイ" },
+    { "question": "z", "answer": "ゼット" }
+  ]
+}

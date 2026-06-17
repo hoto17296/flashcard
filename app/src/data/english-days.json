@@ -1,0 +1,15 @@
+{
+  "id": "english-days",
+  "title": "曜日の英語",
+  "order": 12,
+  "description": "月曜日〜日曜日を英語で言えるようになろう",
+  "cards": [
+    { "question": "日曜日", "answer": "Sunday" },
+    { "question": "月曜日", "answer": "Monday" },
+    { "question": "火曜日", "answer": "Tuesday" },
+    { "question": "水曜日", "answer": "Wednesday" },
+    { "question": "木曜日", "answer": "Thursday" },
+    { "question": "金曜日", "answer": "Friday" },
+    { "question": "土曜日", "answer": "Saturday" }
+  ]
+}

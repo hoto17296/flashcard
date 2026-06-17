@@ -1,0 +1,16 @@
+{
+  "id": "multiplication-4",
+  "title": "九九 - 4の段",
+  "order": 6,
+  "cards": [
+    { "question": "4 × 1", "answer": "4" },
+    { "question": "4 × 2", "answer": "8" },
+    { "question": "4 × 3", "answer": "12" },
+    { "question": "4 × 4", "answer": "16" },
+    { "question": "4 × 5", "answer": "20" },
+    { "question": "4 × 6", "answer": "24" },
+    { "question": "4 × 7", "answer": "28" },
+    { "question": "4 × 8", "answer": "32" },
+    { "question": "4 × 9", "answer": "36" }
+  ]
+}

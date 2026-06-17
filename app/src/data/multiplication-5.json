@@ -1,0 +1,16 @@
+{
+  "id": "multiplication-5",
+  "title": "九九 - 5の段",
+  "order": 7,
+  "cards": [
+    { "question": "5 × 1", "answer": "5" },
+    { "question": "5 × 2", "answer": "10" },
+    { "question": "5 × 3", "answer": "15" },
+    { "question": "5 × 4", "answer": "20" },
+    { "question": "5 × 5", "answer": "25" },
+    { "question": "5 × 6", "answer": "30" },
+    { "question": "5 × 7", "answer": "35" },
+    { "question": "5 × 8", "answer": "40" },
+    { "question": "5 × 9", "answer": "45" }
+  ]
+}

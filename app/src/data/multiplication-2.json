@@ -1,0 +1,16 @@
+{
+  "id": "multiplication-2",
+  "title": "九九 - 2の段",
+  "order": 4,
+  "cards": [
+    { "question": "2 × 1", "answer": "2" },
+    { "question": "2 × 2", "answer": "4" },
+    { "question": "2 × 3", "answer": "6" },
+    { "question": "2 × 4", "answer": "8" },
+    { "question": "2 × 5", "answer": "10" },
+    { "question": "2 × 6", "answer": "12" },
+    { "question": "2 × 7", "answer": "14" },
+    { "question": "2 × 8", "answer": "16" },
+    { "question": "2 × 9", "answer": "18" }
+  ]
+}

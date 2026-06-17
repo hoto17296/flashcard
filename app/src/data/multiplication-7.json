@@ -1,0 +1,16 @@
+{
+  "id": "multiplication-7",
+  "title": "九九 - 7の段",
+  "order": 9,
+  "cards": [
+    { "question": "7 × 1", "answer": "7" },
+    { "question": "7 × 2", "answer": "14" },
+    { "question": "7 × 3", "answer": "21" },
+    { "question": "7 × 4", "answer": "28" },
+    { "question": "7 × 5", "answer": "35" },
+    { "question": "7 × 6", "answer": "42" },
+    { "question": "7 × 7", "answer": "49" },
+    { "question": "7 × 8", "answer": "56" },
+    { "question": "7 × 9", "answer": "63" }
+  ]
+}
