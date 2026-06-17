@@ -39,6 +39,7 @@ button {
   background: none;
   font-family: inherit;
   font-size: inherit;
+  color: inherit;
 }
 
 .screen {
